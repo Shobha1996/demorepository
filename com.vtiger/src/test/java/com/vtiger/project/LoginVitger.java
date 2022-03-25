@@ -39,7 +39,7 @@ public class LoginVitger {
 	}
 	
 	driver.manage().window().maximize();
-	
+	System.out.println("login");
 		
 	}
 }
